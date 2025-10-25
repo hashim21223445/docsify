@@ -52,7 +52,7 @@
     "@rollup/plugin-replace": "^5.0.2",
     "@rollup/plugin-terser": "^0.4.3",
     "@types/eslint": "^8.40.2",
-    "axios": "^1.5.0",
+    "axios": "^1.12.0",
     "browser-sync": "^3.0.2",
     "common-tags": "^1.8.0",
     "conventional-changelog-cli": "^3.0.0",
