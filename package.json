@@ -58,7 +58,7 @@
     "conventional-changelog-cli": "^3.0.0",
     "cross-env": "^7.0.3",
     "cssnano": "^7.0.1",
-    "eslint": "^9.31.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-jest": "^28.5.0",
     "eslint-plugin-playwright": "^1.6.1",
